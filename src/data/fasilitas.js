@@ -1,0 +1,26 @@
+// Daftar sarana dan prasarana sesuai https://smansaboja.sch.id/infrastructure
+// Foto bawaan masih placeholder. Jalankan `npm run images` untuk mengunduh foto aslinya.
+export const fasilitas = [
+  { id: 1, slug: "ruang-lobby-sma", nama: "Ruang Lobby SMA", image: "/images/fasilitas/ruang-lobby-sma.jpg" },
+  { id: 2, slug: "lab-trcc", nama: "Lab TRCC", image: "/images/fasilitas/lab-trcc.jpg" },
+  { id: 3, slug: "perpustakaan", nama: "Perpustakaan", image: "/images/fasilitas/perpustakaan.jpg" },
+  { id: 4, slug: "lapangan-olahraga-basket", nama: "Lapangan Olahraga Basket", image: "/images/fasilitas/lapangan-olahraga-basket.jpg" },
+  { id: 5, slug: "toilet-bersih", nama: "Toilet Bersih", image: "/images/fasilitas/toilet-bersih.jpg" },
+  { id: 6, slug: "gedung-serba-guna", nama: "Gedung Serba Guna", image: "/images/fasilitas/gedung-serba-guna.jpg" },
+  { id: 7, slug: "masjid", nama: "Masjid", image: "/images/fasilitas/masjid.jpg" },
+  { id: 8, slug: "ruang-uks", nama: "Ruang UKS", image: "/images/fasilitas/ruang-uks.jpg" },
+  { id: 9, slug: "laboratorium-komputer-1", nama: "Laboratorium Komputer 1", image: "/images/fasilitas/laboratorium-komputer-1.jpg" },
+  { id: 10, slug: "laboratorium-bahasa", nama: "Laboratorium Bahasa", image: "/images/fasilitas/laboratorium-bahasa.jpg" },
+  { id: 11, slug: "laboratorium-fisika", nama: "Laboratorium Fisika", image: "/images/fasilitas/laboratorium-fisika.jpg" },
+  { id: 12, slug: "laboratorium-biologi", nama: "Laboratorium Biologi", image: "/images/fasilitas/laboratorium-biologi.jpg" },
+  { id: 13, slug: "ruang-rapat-lantai-2", nama: "Ruang Rapat Lantai 2", image: "/images/fasilitas/ruang-rapat-lantai-2.jpg" },
+  { id: 14, slug: "laboratorium-komputer-2", nama: "Laboratorium Komputer 2", image: "/images/fasilitas/laboratorium-komputer-2.jpg" },
+  { id: 15, slug: "tempat-parkir-motor-siswa", nama: "Tempat Parkir Motor Siswa", image: "/images/fasilitas/tempat-parkir-motor-siswa.jpg" },
+  { id: 16, slug: "lapangan-olahraga-volly-1", nama: "Lapangan Olahraga Volly 1", image: "/images/fasilitas/lapangan-olahraga-volly-1.jpg" },
+  { id: 17, slug: "lapangan-olahraga-volly-2", nama: "Lapangan Olahraga Volly 2", image: "/images/fasilitas/lapangan-olahraga-volly-2.jpg" },
+  { id: 18, slug: "lapangan-olahraga-volly-3", nama: "Lapangan Olahraga Volly 3", image: "/images/fasilitas/lapangan-olahraga-volly-3.jpg" },
+  { id: 19, slug: "lapangan-olahraga-sepak-bola", nama: "Lapangan Olahraga Sepak Bola", image: "/images/fasilitas/lapangan-olahraga-sepak-bola.jpg" },
+  { id: 20, slug: "lapangan-upacara-bendera", nama: "Lapangan Upacara Bendera", image: "/images/fasilitas/lapangan-upacara-bendera.jpg" },
+  { id: 21, slug: "kantin-sekolah", nama: "Kantin Sekolah", image: "/images/fasilitas/kantin-sekolah.jpg" },
+  { id: 22, slug: "climbing", nama: "Climbing", image: "/images/fasilitas/climbing.jpg" },
+];

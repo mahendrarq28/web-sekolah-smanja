@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-accent: var(--font-playfair), serif;
+}
+
+body {
+  overflow-x: clip;
+  background-color: #ffffff;
+  color: #172554; /* blue-950 */
+}
