@@ -8,8 +8,8 @@ const info = [
   { label: "Nama Sekolah", value: "SMA Negeri 1 Boja Kabupaten Kendal" },
   { label: "Alamat", value: "Jl. Raya No. 203 D, Simbang, Bebengan, Kecamatan Boja, Kabupaten Kendal, Jawa Tengah 51381" },
   { label: "Telepon", value: "+62-294-571089" },
-  { label: "Email", value: "[isi email resmi sekolah]" },
-  { label: "Jam Layanan", value: "[isi jam layanan resmi]" },
+  { label: "Email", value: "mail@smansaboja.sch.id" },
+  { label: "Jam Layanan", value: "07:30 - 16:00" },
 ];
 
 export default function KontakPage() {

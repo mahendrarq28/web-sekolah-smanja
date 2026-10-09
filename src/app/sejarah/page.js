@@ -43,7 +43,7 @@ export default function SejarahPage() {
             <div className="relative h-72 overflow-hidden rounded-3xl sm:h-96">
               <Image src="/images/sejarah-1985.jpg" alt="SMA Negeri 1 Boja pada tahun 1985 saat awal pembangunan" fill sizes="(min-width: 768px) 50vw, 100vw" className="object-cover" />
             </div>
-            <figcaption className="mt-3 text-center text-sm text-blue-900/60">SMA Negeri 1 Boja pada tahun 1985, saat awal pembangunan.</figcaption>
+            <figcaption className="mt-3 text-center text-sm text-blue-900/60">SMA Negeri 1 Boja.</figcaption>
           </figure>
         </Reveal>
       </section>
